@@ -1,0 +1,3 @@
+/Users/cool_thing/Documents/college_thing/112_02/sprout/HW1_Sprouthon_complete_version/build/CMakeFiles/Sprouthon.dir
+/Users/cool_thing/Documents/college_thing/112_02/sprout/HW1_Sprouthon_complete_version/build/CMakeFiles/edit_cache.dir
+/Users/cool_thing/Documents/college_thing/112_02/sprout/HW1_Sprouthon_complete_version/build/CMakeFiles/rebuild_cache.dir
